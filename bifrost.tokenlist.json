@@ -1,0 +1,288 @@
+{
+  "name": "Bifrost",
+  "logoURI": "https://cdn.liebi.com/press_kit/BNC_512.png",
+  "keywords": ["defi"],
+  "timestamp": "2025-03-21T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xf877500C6ff3cf8305245bCb3Cf1c5A6B7287aEF",
+      "symbol": "BNC",
+      "name": "Bifrost Native Coin",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/BNC_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 8453,
+      "address": "0xf877500C6ff3cf8305245bCb3Cf1c5A6B7287aEF",
+      "symbol": "BNC",
+      "name": "Bifrost Native Coin",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/BNC_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xf877500C6ff3cf8305245bCb3Cf1c5A6B7287aEF",
+      "symbol": "BNC",
+      "name": "Bifrost Native Coin",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/BNC_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf877500C6ff3cf8305245bCb3Cf1c5A6B7287aEF",
+      "symbol": "BNC",
+      "name": "Bifrost Native Coin",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/BNC_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 10,
+      "address": "0xf877500C6ff3cf8305245bCb3Cf1c5A6B7287aEF",
+      "symbol": "BNC",
+      "name": "Bifrost Native Coin",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/BNC_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x61c57c187557442393a96bA8e6FDfE27610832a5",
+      "symbol": "vBNC",
+      "name": "Voucher BNC",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vBNC_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 8453,
+      "address": "0x61c57c187557442393a96bA8e6FDfE27610832a5",
+      "symbol": "vBNC",
+      "name": "Voucher BNC",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vBNC_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x61c57c187557442393a96bA8e6FDfE27610832a5",
+      "symbol": "vBNC",
+      "name": "Voucher BNC",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vBNC_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 56,
+      "address": "0x61c57c187557442393a96bA8e6FDfE27610832a5",
+      "symbol": "vBNC",
+      "name": "Voucher BNC",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vBNC_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 10,
+      "address": "0x61c57c187557442393a96bA8e6FDfE27610832a5",
+      "symbol": "vBNC",
+      "name": "Voucher BNC",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vBNC_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x0Bc2e0cab4AD1Dd1398D70bc268c0502e8A6DF24",
+      "symbol": "vGLMR",
+      "name": "Voucher GLMR",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vGLMR_v2_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 8453,
+      "address": "0x0Bc2e0cab4AD1Dd1398D70bc268c0502e8A6DF24",
+      "symbol": "vGLMR",
+      "name": "Voucher GLMR",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vGLMR_v2_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x0Bc2e0cab4AD1Dd1398D70bc268c0502e8A6DF24",
+      "symbol": "vGLMR",
+      "name": "Voucher GLMR",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vGLMR_v2_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 56,
+      "address": "0x0Bc2e0cab4AD1Dd1398D70bc268c0502e8A6DF24",
+      "symbol": "vGLMR",
+      "name": "Voucher GLMR",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vGLMR_v2_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 10,
+      "address": "0x0Bc2e0cab4AD1Dd1398D70bc268c0502e8A6DF24",
+      "symbol": "vGLMR",
+      "name": "Voucher GLMR",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vGLMR_v2_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xf659c15AEB6E41A9edAcBbF3fAeF3902c7f3fE1b",
+      "symbol": "vASTR",
+      "name": "Voucher ASTR",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vASTR_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 8453,
+      "address": "0xf659c15AEB6E41A9edAcBbF3fAeF3902c7f3fE1b",
+      "symbol": "vASTR",
+      "name": "Voucher ASTR",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vASTR_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xf659c15AEB6E41A9edAcBbF3fAeF3902c7f3fE1b",
+      "symbol": "vASTR",
+      "name": "Voucher ASTR",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vASTR_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 56,
+      "address": "0xf659c15AEB6E41A9edAcBbF3fAeF3902c7f3fE1b",
+      "symbol": "vASTR",
+      "name": "Voucher ASTR",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vASTR_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 10,
+      "address": "0xf659c15AEB6E41A9edAcBbF3fAeF3902c7f3fE1b",
+      "symbol": "vASTR",
+      "name": "Voucher ASTR",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vASTR_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
+      "symbol": "vDOT",
+      "name": "Voucher DOT",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vDOT_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 8453,
+      "address": "0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
+      "symbol": "vDOT",
+      "name": "Voucher DOT",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vDOT_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 42161,
+      "address": "0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
+      "symbol": "vDOT",
+      "name": "Voucher DOT",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vDOT_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 56,
+      "address": "0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
+      "symbol": "vDOT",
+      "name": "Voucher DOT",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vDOT_512.png",
+      "tags": [
+        "defi"
+      ]
+    },
+    {
+      "chainId": 10,
+      "address": "0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
+      "symbol": "vDOT",
+      "name": "Voucher DOT",
+      "decimals": 18,
+      "logoURI": "https://cdn.liebi.com/press_kit/vDOT_512.png",
+      "tags": [
+        "defi"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
